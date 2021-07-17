@@ -1,5 +1,7 @@
 {
   "name": "logingooglemas04",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
